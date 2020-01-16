@@ -87,12 +87,12 @@ class SelectConversion extends React.Component {
             {
               "code": "EGP",
               "currency": "Egyptian Pound",
-              "icon_url":	"https://c7.uihere.com/icons/830/781/287/pounds-ec583aef31e3eddb7ec41c9be6d0ff5e.png"
+              "icon_url":	"https://cdn2.iconfinder.com/data/icons/world-currencies/512/egypt_egyptian_pound_currency-512.png"
             },
             {
               "code": "EUR",
               "currency": "Euro",
-              "icon_url":	"https://image.freepik.com/free-icon/euro-currency-symbol_318-41919.jpg"
+              "icon_url":	"https://cdn3.iconfinder.com/data/icons/inficons-currency-set/512/euro-512.png"
             },
             {
               "code": "FJD",
@@ -157,7 +157,7 @@ class SelectConversion extends React.Component {
             {
               "code": "KZT",
               "currency": "Kazakhstani Tenge",
-              "icon_url":	"https://mpng.pngfly.com/20180615/vye/kisspng-kazakhstani-tenge-currency-symbol-iso-4217-kazakhstan-5b236a6c180628.4155824115290476600984.jpg"
+              "icon_url":	"https://cdn3.iconfinder.com/data/icons/currency-2/460/Kazakh-Tenge-512.png"
             },
             {
               "code": "MXN",
@@ -167,7 +167,7 @@ class SelectConversion extends React.Component {
             {
               "code": "MYR",
               "currency": "Malaysian Ringgit",
-              "icon_url":	"https://i.pinimg.com/originals/27/6d/2f/276d2f5420e8c709b2ebc74cc0673930.png"
+              "icon_url":	"https://cdn3.iconfinder.com/data/icons/currency-2/460/Malaysian-Ringgit-512.png"
             },
             {
               "code": "NOK",
@@ -187,17 +187,17 @@ class SelectConversion extends React.Component {
             {
               "code": "PEN",
               "currency": "Peruvian Nuevo Sol",
-              "icon_url":	"https://image.flaticon.com/icons/png/512/38/38264.png"
+              "icon_url":	"http://getdrawings.com/free-icon-bw/peru-icon-8.png"
             },
             {
               "code": "PHP",
               "currency": "Philippine Peso",
-              "icon_url":	"https://image.flaticon.com/icons/png/512/32/32724.png"
+              "icon_url":	"https://cdn1.iconfinder.com/data/icons/currency-solid/48/peso_philippine_currency-512.png"
             },
             {
               "code": "PKR",
               "currency": "Pakistani Rupee",
-              "icon_url":	"https://image.flaticon.com/icons/png/512/38/38240.png"
+              "icon_url":	"https://cdn3.iconfinder.com/data/icons/currency-15/24/Pkr-512.png"
             },
             {
               "code": "PLN",
@@ -207,7 +207,7 @@ class SelectConversion extends React.Component {
             {
               "code": "PYG",
               "currency": "Paraguayan Guarani",
-              "icon_url":	"https://image.flaticon.com/icons/png/512/32/32688.png"
+              "icon_url":	"https://cdn3.iconfinder.com/data/icons/country-coins/512/1_money_currencycoinParaguayan_guarani-512.png"
             },
             {
               "code": "RON",
@@ -222,7 +222,7 @@ class SelectConversion extends React.Component {
             {
               "code": "SAR",
               "currency": "Saudi Riyal",
-              "icon_url":	"https://image.flaticon.com/icons/png/512/32/32980.png"
+              "icon_url":	"https://cdn2.iconfinder.com/data/icons/coins-currencies-outline/100/Riyal-512.png"
             },
             {
               "code": "SEK",
@@ -252,7 +252,7 @@ class SelectConversion extends React.Component {
             {
               "code": "UAH",
               "currency": "Ukrainian Hryvnia",
-              "icon_url":	"https://camo.githubusercontent.com/ad89d1367673c4db40b159e6b92157b146cb2ab5/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f36362f36363233302e737667"
+              "icon_url":	"https://cdn3.iconfinder.com/data/icons/currency-2/460/Ukraine-Hryvnia-512.png"
             },
             {
               "code": "UYU",
@@ -272,7 +272,7 @@ class SelectConversion extends React.Component {
             {
               "code": "BTC",
               "currency": "Bitcoin",
-              "icon_url":	"https://assets.coinlayer.com/icons/BTC.png"
+              "icon_url":	"https://www.freeiconspng.com/uploads/black-bitcoin-icon-6.png"
             },
             {
               "code": "ETH",
@@ -282,17 +282,17 @@ class SelectConversion extends React.Component {
             {
               "code": "XRP",
               "currency": "XRP",
-              "icon_url":	"https://assets.coinlayer.com/icons/XRP.png"
+              "icon_url":	"https://cdn1.iconfinder.com/data/icons/cryptocurrency-2/100/cryptocurrency_blockchain_coin_crypto_btc_-03-512.png"
             },
             {
               "code": "BCH",
               "currency": "Bitcoin Cash",
-              "icon_url":	"https://assets.coinlayer.com/icons/BCH.png"
+              "icon_url":	"https://cdn2.iconfinder.com/data/icons/money-operations/512/bitcoin-512.png"
             },
             {
               "code": "USDT",
               "currency": "Tether",
-              "icon_url":	"https://assets.coinlayer.com/icons/USDT.png"
+              "icon_url":	"https://cdn4.iconfinder.com/data/icons/cryptocoins/227/USDT-alt-512.png"
             },
             {
               "code": "LTC",
@@ -302,17 +302,17 @@ class SelectConversion extends React.Component {
             {
               "code": "EOS",
               "currency": "EOS",
-              'icon_url':	"https://assets.coinlayer.com/icons/EOS.png"
+              'icon_url':	"https://cdn1.iconfinder.com/data/icons/cryptocurrency-2/100/cryptocurrency_blockchain_coin_crypto_btc_-10-512.png"
             },
             {
               "code": "BNB",
               "currency": "Binance Coin",
-              "icon_url":"https://assets.coinlayer.com/icons/BNB.png"
+              "icon_url":"https://cdn3.iconfinder.com/data/icons/popular-cryptocurrencies-vol-2019-1/80/bnb-binance-cryptocurrency-token-coin-512.png"
             },
             {
               "code": "XLM",
               "currency": "Stellar",
-              "icon_url": "https://assets.coinlayer.com/icons/XLM.png"
+              "icon_url": "https://cdn3.iconfinder.com/data/icons/outline-cryptocurrency-cryptocurrencies/128/cryptocurrency_cryptocurrencies_stellar-512.png"
             }
           ]
     }
