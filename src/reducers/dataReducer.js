@@ -5,7 +5,7 @@ export default (state = reducerDefaultState, action) => {
             return {
                 ...state,
                 ...action.data
-            }
+            }   
         default:
             return state
     }
