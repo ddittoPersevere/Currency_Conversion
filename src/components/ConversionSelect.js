@@ -8,7 +8,6 @@ import data from '../../countryCodes.json'
 
 class SelectConversion extends React.Component {
     render(){
-      console.log(data)
       let BimgUrl = this.props.currency.Bicon_url;
       let imgUrl = this.props.currency.icon_url;
       let BdivStyle = {
@@ -35,7 +34,6 @@ class SelectConversion extends React.Component {
         return (
             <main role="main" className="inner cover text-center">
                 <div className="d-flex flex-row p-2 justify-content-between">
-
                     <div style={BdivStyle} className="div-bg row d-flex justify-content-center">
                       <div className="d-flex flex-column justify-content-around text-center">
                         <select name="bCurrency" id="bcurrency" className="rounded" onChange={
@@ -49,7 +47,6 @@ class SelectConversion extends React.Component {
                         </select>
                       </div>
                     </div>
-
                       <div style={arrowDivStyle} className="div-bg row d-flex justify-content-center text-center">
                         <div className="d-flex flex-column justify-content-center row text-center">
                           <input type="number" id="amount" name="amount" defaultValue='1.00' className="rounded" step="0.01" onChange={
@@ -60,8 +57,6 @@ class SelectConversion extends React.Component {
                           }/>
                         </div>
                       </div>
-
-                    
                     <div style={divStyle} className="div-bg row d-flex justify-content-center">
                       <div className="d-flex flex-column justify-content-around text-center">
                         <select name="currency" id="currency" className="rounded" onChange={
@@ -75,7 +70,6 @@ class SelectConversion extends React.Component {
                         </select>
                       </div>
                     </div>
-
                 </div>
             </main>
         )
