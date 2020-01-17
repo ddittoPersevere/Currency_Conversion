@@ -5,7 +5,6 @@ import 'normalize.css/normalize.css'
 import './styles/base/styles.scss'
 import storeCreator from './store/configureStore'
 import { Provider } from 'react-redux'
-import pullData from './actions/pullData'
 
 const store = storeCreator()
 store.subscribe(() => {
